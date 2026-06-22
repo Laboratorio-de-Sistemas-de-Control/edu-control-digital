@@ -3,6 +3,7 @@
 
 # Excepto archivos Python
 !*.py
+!*.pdf
 !.gitignore
 
 # Ignorar directorios de cache de Python

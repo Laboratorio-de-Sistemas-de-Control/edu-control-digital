@@ -1,0 +1,11 @@
+# Ignorar todo
+*
+
+# Excepto archivos Python
+!*.py
+!.gitignore
+
+# Ignorar directorios de cache de Python
+__pycache__/
+*.pyc
+*.pyo

@@ -5,6 +5,7 @@
 !*.py
 !*.pdf
 !.gitignore
+!*.rar
 
 # Ignorar directorios de cache de Python
 __pycache__/
